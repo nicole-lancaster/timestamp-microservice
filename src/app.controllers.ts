@@ -4,5 +4,9 @@ export const getBasicHtml = (
   request: Express.Request,
   response: Express.Response
 ) => {
-  return response.status(200).sendFile(__dirname + "/views/index.html");
+  try {
+    return response.status(200).sendFile(`${__dirname}/views/index.html`);
+  } catch (err) {
+    console.error(err);
+  }
 };
