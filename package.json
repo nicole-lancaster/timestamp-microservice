@@ -1,0 +1,24 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier -w ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicole-lancaster/timestamp-microservice.git"
+  },
+  "author": "Nicole Lancaster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicole-lancaster/timestamp-microservice/issues"
+  },
+  "homepage": "https://github.com/nicole-lancaster/timestamp-microservice#readme",
+  "devDependencies": {
+    "prettier": "^3.0.0",
+    "typescript": "^5.1.6"
+  }
+}
