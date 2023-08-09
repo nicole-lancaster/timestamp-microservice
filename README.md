@@ -1,5 +1,8 @@
 # Timestamp Microservice
 
+![image](https://github.com/nicole-lancaster/timestamp-microservice/assets/116457977/999993c8-8286-4ca5-a1c3-6499e0656538)
+
+
 A simple timestamp microservice, live version is hosted on replit here: https://replit.com/@nicole-lancaste/timestamp-microservice
 
 ## Description
