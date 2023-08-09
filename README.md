@@ -1,6 +1,6 @@
 # Timestamp Microservice
 
-A simple timestamp microservice, live version is hosted on replit here: https://replit.com/@nicole-lancaste/timestamp-microservice
+A simple timestamp microservice, live version is hosted on replit here: [https://replit.com/@nicole-lancaste/timestamp-microservice](https://timestamp-microservice.nicole-lancaste.repl.co/)
 
 ## Description
 
